@@ -1,5 +1,5 @@
 # Discord-roll-bot
-A discord bot that instead of rolling from 1-6. it rolls from 0-100. it was sectioned to add an emote for each roll
+A discord bot that rolls from 0-100.
 
 
 The bot can found and invited to your server here(Approved!):
